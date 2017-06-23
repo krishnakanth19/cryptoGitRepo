@@ -1,0 +1,2 @@
+Hi, This is the first file I'm edting in vi editor
+Sample text file.

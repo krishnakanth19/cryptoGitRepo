@@ -10,4 +10,8 @@ func main() {
   output := input * 2
 
   fmt.Println(output)
-}
+
+  helll  to programming  of go language}
+
+   to programming of go languague ti=utorial}
+
